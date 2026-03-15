@@ -27,7 +27,7 @@ const DATA: Record<Category, Activity[]> = {
     { name: 'Cinema — The Projector',            emoji: '🎬',  desc: 'The projector room hits different. Giant screen, tiny world outside.',                      floats: ['🍿', '🌟', '🎭', '💕'] },
     { name: 'Visit a Museum or Gallery',          emoji: '🏛️', desc: 'Pretend to understand modern art together. Giggle. It\'s perfectly okay.',                  floats: ['🖼️', '✨', '🎨', '💭'] },
     { name: 'National Library Deep Dive',         emoji: '📚',  desc: 'Pick a random topic, become experts, then debate it over tea.',                             floats: ['💡', '✨', '📖', '🤓'] },
-    { name: 'Discourse Dinner',                   emoji: '🍽️', desc: 'No phones. Real conversation. See what surfaces when you actually talk.',                    floats: ['🕯️', '💬', '❤️', '🌹'] },
+    { name: 'Discourse Dinner',                   emoji: '🍽️', desc: 'Pick a provocative topic, read opposing viewpoints, and debate it over dinner.',                    floats: ['🕯️', '💬', '❤️', '🌹'] },
     { name: 'Prawning',                           emoji: '🦐',  desc: "It's 2am, you're beside a pond, and you're both completely hooked. Literally.",              floats: ['🌙', '🐟', '⭐', '🎣'] },
     { name: 'Art Jamming or Urban Sketching',     emoji: '🎨',  desc: 'Make questionable art and hang it on the fridge forever. That\'s love.',                    floats: ['🖌️', '🌈', '✨', '💕'] },
     { name: 'Board Game or Console Cafe',         emoji: '🎲',  desc: 'Strategic thinking + snacks + each other = the best kind of quality time.',                 floats: ['♟️', '🎮', '☕', '✨'] },
